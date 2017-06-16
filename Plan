@@ -1,0 +1,31 @@
+Aim: Create a full School Management System using JAVA FX. Similar project is already made using PHP
+Goals:
+1. The system works as a KIOSK for the administrator of the school system
+2. The administrator can enter and edit parent and student information
+3. New parent registration will include parent names, address, phone no, email address
+4. New student registration will include student name, age, and gender. Student will be connected to the parent.
+5. Class registration will include class name, time of the day, total students registered
+6. Teacher registration will include teacher name, phone, email, and classes taught
+7. Tuition will include amount due, amount paid, and payment clearance
+8. Administrator will require a password to enter and access the system
+9. Administrator can search for parents and their information.
+10. Administrator can search for students and their information.
+11. Administrator can find list of students in the class
+
+
+This will be part of a larger project. We divide the project into three phases:
+
+Phase 1 : Create the UI
+a. First ask for username and password. If correct then proceed to the management page. If not goes back to the 
+
+
+Phase 2 : Create all the classes
+
+
+Phase 3 : Create all the databases
+
+
+Phase 4 : Connect Databases to the classes and UI
+
+
+Phase 5 : Test and Deploy.
